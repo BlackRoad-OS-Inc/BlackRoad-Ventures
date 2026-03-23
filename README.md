@@ -1,5 +1,13 @@
 # BlackRoad-Ventures
 
+> BlackRoad Ventures — investment, partnerships, incubation, startup tools. Proprietary BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# BlackRoad-Ventures
+
 BlackRoad Ventures — investment, partnerships, incubation, startup tools. Proprietary BlackRoad OS, Inc.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
